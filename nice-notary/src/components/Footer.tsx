@@ -16,7 +16,7 @@ const Footer = () => (
               m.currier designs
             </a>
           </li>
-          <li>
+          {/* <li>
             Framework with&nbsp;
             <a
               href="https://nextjs.org/"
@@ -35,7 +35,7 @@ const Footer = () => (
             >
               Tailwind
             </a>
-          </li>
+          </li> */}
           <li>
             Transitions with&nbsp;
             <a
@@ -46,7 +46,7 @@ const Footer = () => (
               Hover.dev
             </a>
           </li>
-          <li>
+          {/* <li>
             Deploying from github with&nbsp;
             <a
               href="https://vercel.com/"
@@ -55,7 +55,7 @@ const Footer = () => (
             >
               Vercel app
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
       <div className="w-1/2 text-right">

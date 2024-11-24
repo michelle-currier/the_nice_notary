@@ -164,19 +164,11 @@ export default function Contact() {
         <p className="text-sm text-black dark:text-white">
           Or, send us an email directly at{" "}
           <a
-            href="mailto:mcurrierdesigns@gmail.com"
+            href="mailto:thenicenotaryllc@gmail.com"
             className="text-blue-600 dark:text-teal-300 underline"
           >
-            mcurrierdesigns@gmail.com
+            theNiceNotaryLLC@gmail.com
           </a>
-        </p>
-        <p>
-          <TransitionButton href="/">
-            <button className="mt-8 bg-white text-teal-600 font-semibold py-2 px-4 rounded-full inline-flex items-center">
-              Back to home
-              <ArrowLeftIcon className="w-5 h-5 ml-2" />
-            </button>
-          </TransitionButton>
         </p>
       </div>
     </section>
